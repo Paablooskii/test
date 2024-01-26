@@ -323,7 +323,7 @@ input:valid~label{
     backdrop-filter: blur(40px);
 }
 body{
-    background-color: #1E1109;
+    background-color: #1e1e1d;
 }
 .menunavegacion{
     display: grid;
@@ -411,7 +411,7 @@ body{
     position: fixed;
     height: 100vh;
     width: 30vh;
-    background-color: rgb(32 23 162);
+    background-color: rgb(49 5 89);
 }
 
 .menulateral div{
